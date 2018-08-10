@@ -19,6 +19,6 @@
   
 <? php
   // Example: using DEFINE to shorten path names - Useful for common Folders, Root structure, etc.
-  define("SHARED", 'localhost/shared');
+  define("SHARED", 'localhost:8080/project/private/shared');
   include(SHARED . '/staff_footer.php');
   ?>
