@@ -1,10 +1,9 @@
-# LinkInLearning-PHPwithSQL
-PHP with MySQL Essential Training: 1 The Basics
+# Linkedin Learning - PHP with MySQL Essential Training: 1 The Basics
 
 Online Course Available at Linkedin Learning:
 https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics
 
-Course Outline
+## Course Outline
 
 0. Introduction
 1. Start a Database-Driven Project
