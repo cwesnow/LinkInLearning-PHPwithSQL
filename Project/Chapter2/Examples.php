@@ -9,8 +9,9 @@
   <li><a href="<? php echo 'index.php'; ?>">PHP Link</a></li>
 </uL
 
-<? php // Course provided Function
-  // Defines the Root Name - www.domain.com or localhost.com/myprofile/projects/index
+<? php // Course provided Function ?>
+<? php // Defines the Root Name - www.domain.com or localhost.com/myprofile/projects/index ?>
+<? php
   $public_end = strpos($_SERVER['SCRIPT_NAME'], '/public') + 7;
   $doc_root = substr($_SERVER['SCRIPT_NAME'], 0, $public_end);
   define("WWW_ROOT", $doc_root);
