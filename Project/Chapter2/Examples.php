@@ -3,12 +3,13 @@
 <head><title>Chapter 2 - Examples</title></head>
 
 <body>
-
-<ul>
-  <li><a href="index.php">HTML Link</a></li>
-  <li><a href="<? php echo 'index.php'; ?>">PHP Link</a></li>
-</uL
-
+<div>
+  <ul>
+    <li><a href="index.php">HTML Link</a></li>
+    <li><a href="<? php echo 'index.php'; ?>">PHP Link</a></li>
+  </ul>
+</div>
+  
 <? php // Course provided Function ?>
 <? php // Defines the Root Name - www.domain.com or localhost.com/myprofile/projects/index ?>
 <? php
