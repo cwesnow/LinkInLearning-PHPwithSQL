@@ -4,7 +4,6 @@
 
 <body>
 
-<!-- Typical Link and a PHP Example to show they work the same way -->
 <ul>
   <li><a href="index.php">HTML Link</a></li>
   <li><a href="<? php echo 'index.php'; ?>">PHP Link</a></li>
